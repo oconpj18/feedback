@@ -8,7 +8,7 @@ ini_set('error_reporting', E_ALL);
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Form Validation</title>
-<link rel="stylesheet" type="text/css" href="../../style/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 <style type="text/css">
 	.cent {text-align:center}
 </style>
