@@ -75,8 +75,8 @@ ini_set('error_reporting', E_ALL);
 					<h2>General</h2>
 					<ul>
 						<li><a href="http://www.buffalostate.edu/cis/" target="blank">cis department</a></li>
-						<li><a href="http://www.buffalostate.edu/">buffalo state college</a></li>
-						<li><a href="http://www.oswd.org/">os web design</a></li>
+						<li><a href="http://www.buffalostate.edu/" target="blank">buffalo state college</a></li>
+						<li><a href="http://www.oswd.org/" target="blank">os web design</a></li>
 					</ul>
 				</li>
 				<li>
