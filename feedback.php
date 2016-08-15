@@ -1,4 +1,4 @@
-<?php
+<?php header('Content-Type: text/html; charset=utf-8');
 ini_set('display_errors', 0);
 ini_set('log_errors', 0);
 ini_set('error_reporting', E_ALL);
