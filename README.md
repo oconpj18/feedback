@@ -1,6 +1,5 @@
 
-This repository is a collection of sample work from past projects using mostly html, css, php, and some javascript
-
+This repository is a collection of sample work from past projects using mostly html, css, php, and some javascript.<br>
 Techniques displayed:<br>
 Database connection/session routines<br>
 User input validation<br>
