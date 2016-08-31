@@ -7,6 +7,6 @@ $linkID = mysql_connect("localhost", "oconpj18",  $pword);
 } //endif
 
 if (mysql_select_db("oconpj18" , $linkID) == FALSE){ 
-	   print "The specified database could not be selected.. Please notify the site administrator. <br>";
+	   print "The specified database could not be selected. Please notify the site administrator. <br>";
 } //endif 
 ?>
